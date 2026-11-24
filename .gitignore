@@ -1,0 +1,17 @@
+
+# Maven build output
+target/
+
+# AOF database and temporary files
+*.aof
+*.aof.tmp
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Compiled Java files
+*.class
