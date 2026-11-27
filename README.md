@@ -113,3 +113,13 @@ mvn test
 MiniRedis is an educational Redis-inspired database implementation. It is not a complete replacement for Redis.
 
 **Author:** Antima
+
+## Project Screenshots
+
+### 1. Server Running
+
+![MiniRedis Server](server-running.png)
+
+### 2. Client Commands
+
+![MiniRedis Client](client-commands.png)
